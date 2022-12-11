@@ -1,4 +1,4 @@
-👋 Oi, estou @thellllima02
+👋 Oi, estou @thellllima02   
 👀 Estou interessado em trabalhar na area da computação.
 🌱 Atualmente estou aprendendo Java e JavaScript.
 💞️ Estou procurando colaborar em projetos.
