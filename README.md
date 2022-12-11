@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thellllima02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Oi, estou @thellllima02
+👀 Estou interessado em trabalhar na area da computação.
+🌱 Atualmente estou aprendendo Java e JavaScript.
+💞️ Estou procurando colaborar em projetos.
+📫 Como chegar até mim Instagram @theel.lima 
 
 <!---
 thellllima02/thellllima02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
