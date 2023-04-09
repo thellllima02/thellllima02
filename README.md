@@ -10,7 +10,7 @@
 
 ![Hércules Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=thellllima02&show_icons=true&theme=radical)
 
-## Tecnologias que estou aprendendo 
+## Linguagens que estou aprendendo 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thellllima02)](https://github.com/thellllima02/github-readme-stats)
